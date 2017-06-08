@@ -1,0 +1,16 @@
+git push
+Everything up-to-date
+
+do not add or commit
+
+git commit -m "20170608"
+Please tell me who you are.
+Run
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git config --global user.email "soplist@hotmail.com"
+git config --global user.name "soplist"
+
+git commit -m "20170608"
+git push
